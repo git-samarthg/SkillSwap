@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175320121679",
+    "project_id": "skills-d57e3",
+    "storage_bucket": "skills-d57e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175320121679:android:f2eb6bb6d4652bc6c2453a",
+        "android_client_info": {
+          "package_name": "com.example.skills"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175320121679-6kp578kfr2gc58gb4u2c7nj814asqdc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skills",
+            "certificate_hash": "dc040a8ac2eee70ee658561e19359f6dff21830f"
+          }
+        },
+        {
+          "client_id": "175320121679-iittill5bjojlshleicu8cdrjjp5cpkf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuQBDBj7POpe5IJ3tLQElBQe1VDwon5lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175320121679-iittill5bjojlshleicu8cdrjjp5cpkf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
